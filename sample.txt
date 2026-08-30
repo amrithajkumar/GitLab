@@ -1,1 +1,2 @@
 Hello Git Bro
+Git is awesome
